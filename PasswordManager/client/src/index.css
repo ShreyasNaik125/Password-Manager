@@ -1,0 +1,118 @@
+*{
+    font-family: sans-serif;
+}
+
+.new-box input{
+    width: 120px;
+}
+
+body{
+    background: rgb(0, 136, 255);
+}
+
+.register{
+    background: #fff;
+    width: 350px;
+    height: 320px;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 2rem;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.register input{
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 0.5rem;
+    padding: 10px 15px;
+    width: 70%;
+    margin-top: 10px;
+}
+
+.register button{
+    background: rgb(0, 153, 255);
+    color: #fff;
+    border: 0;
+    padding: 10px 15px;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+
+.login{
+    background: #fff;
+    width: 350px;
+    height: 320px;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 2rem;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.login input{
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 0.5rem;
+    padding: 10px 15px;
+    width: 70%;
+    margin-top: 10px;
+}
+
+.login button{
+    background: rgb(0, 153, 255);
+    color: #fff;
+    border: 0;
+    padding: 10px 15px;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.Home{
+    color: #fff;
+}
+
+.passwords{
+    background: #fff;
+    border-radius: 0.5rem;
+    color: #000;
+    height: 350px;
+    width: 90%;
+    padding-top: 20px;
+    scroll-behavior: auto;
+}
+
+.new-box{
+    background: #fff;
+    color: #000;
+    padding: 10px;
+    margin-top: 20px;
+    width: 90%;
+    border-radius: 0.5rem;
+}
+
+.new-box input{
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 0.5rem;
+    padding: 7px 15px;
+    width: 70%;
+    margin-top: 10px;
+}
+
+.new-box button{
+    margin-top: -75px;
+    margin-left: 50px;
+    background: rgb(0, 153, 255);
+    color: #fff;
+    border: 0;
+    padding: 50px 100px;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    position: fixed;
+}
